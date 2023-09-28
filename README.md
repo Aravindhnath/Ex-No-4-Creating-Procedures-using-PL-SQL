@@ -36,4 +36,4 @@ Procedure created.
 ![Output](/exp4_DBMS.png)
 
 ### Result:
-The program has been successfully implemented.
+The program has been implemented successfully.
